@@ -1,4 +1,4 @@
-package com.hihuaning.niuke.java;
+package com.hihuaning.niuke;
 
 /**
  * Created by disneyland on 7/21/16.

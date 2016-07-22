@@ -1,4 +1,4 @@
-package com.hihuaning.niuke.java;
+package com.hihuaning.niuke;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
