@@ -5,7 +5,7 @@ import java.io.*;
 
 public class ScanService {
 	public static void main(String[] args){
-		String host = "localhost";
+		String host = "192.168.11.105";
 		if(args.length>0){
 			host = args[0];
 		}

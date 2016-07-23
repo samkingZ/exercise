@@ -5,8 +5,9 @@ import java.net.*;
 
 public class Client {
 	public static void main(String[] args) throws Exception{
-		Socket c = new Socket("127.0.0.1",2001);
-		System.out.println("已经连接上服务器程序");
+		Socket c = new Socket("127.0.0.1",2000);
+		System.out.println(c.getInetAddress());
+		System.out.println(c.getLocalSocketAddress()+"已经连接上服务器程序");
 		InputStream in = c.getInputStream();
 		OutputStream out = c.getOutputStream();
 		BufferedReader br1 = new BufferedReader(new InputStreamReader(in));

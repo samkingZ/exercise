@@ -1,6 +1,6 @@
+/*
+
 package com.hihuaning.activeMQ;
-
-
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
@@ -71,3 +71,4 @@ public class Sender {
         }
     }
 }
+*/

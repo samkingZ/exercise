@@ -1,3 +1,4 @@
+/*
 package com.hihuaning.activeMQ;
 
 import javax.jms.Connection;
@@ -55,3 +56,4 @@ public class Receiver {
         }
     }
 }
+*/
